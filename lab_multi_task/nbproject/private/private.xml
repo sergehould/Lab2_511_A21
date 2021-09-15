@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="6">
+        <file>
+            <url>task.c</url>
+            <bookmark id="3">
+                <name/>
+                <line>21</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>185</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>soft_com.c</url>
+            <bookmark id="5">
+                <name/>
+                <line>56</line>
+                <key/>
+            </bookmark>
+            <bookmark id="6">
+                <name/>
+                <line>71</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/serge/Vanier/courses/247_511_VA_Micro_App/projects/stu_lab_multitask/lab_multi_task/main.c</file>
+            <file>file:/C:/serge/Vanier/courses/247_511_VA_Micro_App/projects/stu_lab_multitask/lab_multi_task/queue.c</file>
+            <file>file:/C:/serge/Vanier/courses/247_511_VA_Micro_App/projects/stu_lab_multitask/lab_multi_task/initBoard.c</file>
+            <file>file:/C:/serge/Vanier/courses/247_511_VA_Micro_App/projects/stu_lab_multitask/lab_multi_task/console32.c</file>
+            <file>file:/C:/serge/Vanier/courses/247_511_VA_Micro_App/projects/stu_lab_multitask/lab_multi_task/Tick_core.c</file>
+            <file>file:/C:/serge/Vanier/courses/247_511_VA_Micro_App/projects/stu_lab_multitask/lab_multi_task/include/queue.h</file>
+        </group>
+    </open-files>
+</project-private>
